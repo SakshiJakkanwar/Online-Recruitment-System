@@ -18,5 +18,5 @@ This is a web-based Online Recruitment System developed using **HTML**, **CSS**,
 - **Database:** MySQL
 - **Server:** Apache Tomcat
 
-## 📂 Project Structure
+
 
